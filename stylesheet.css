@@ -1,0 +1,39 @@
+h1 {
+	color: black;
+	margin-left: 20px;
+}
+
+/*Sets the size of the text: figure out how to NOT do this or the main page*/
+body {
+	background-color: white;
+	font-size: 20px;
+	text-indent: 50px;
+}
+
+/*Sets the spacing between paragraphs*/
+p {
+  line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px; /* between paragraphs */
+  }
+ 
+/*Dilation Effect: For Igelet*/
+dilation { 
+  background-color: black;
+  color: white;
+}
+
+/*Angel's  Perspectives*/
+Sy{
+	color: #00B050;
+}
+
+Light{
+	color: #FFC000;
+}
+
+Igelet{
+	color: #0070C0;
+}
+
+
+
